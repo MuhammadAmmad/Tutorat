@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "921159652689",
+    "firebase_url": "https://tutorat-9fd01.firebaseio.com",
+    "project_id": "tutorat-9fd01",
+    "storage_bucket": "tutorat-9fd01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921159652689:android:c18a00cb04cdea14",
+        "android_client_info": {
+          "package_name": "ca.tutorat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921159652689-uup8pkdkfsv76in6cgfl16gtpb5a5k0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKLAqyCWMVh9YV6yY-oDl1rHbGQiweCUw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
